@@ -22,7 +22,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": "^7.1",
+        "php": "^8.0",
         "prooph/common" : "^4.2.1",
         "prooph/service-bus" : "^6.2",
         "prooph/event-store" : "^7.3.1"
